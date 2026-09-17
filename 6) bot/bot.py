@@ -11,7 +11,7 @@ from aiogram.types import (
     CallbackQuery,
 )
 
-BOT_TOKEN = os.environ["8026585919:AAFpDawu6-6Jcx1xpoNiwu6zo2YaxCP8F0M"]
+BOT_TOKEN =8026585919:AAFpDawu6-6Jcx1xpoNiwu6zo2YaxCP8F0M os.environ["8026585919:AAFpDawu6-6Jcx1xpoNiwu6zo2YaxCP8F0M"]
 ADMIN_ID = int(os.environ["8026585919"])
 
 SERVER_ADDRESS = os.environ["SERVER_ADDRESS"]
