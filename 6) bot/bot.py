@@ -12,7 +12,7 @@ from aiogram.types import (
 )
 
 BOT_TOKEN = os.environ["8026585919:AAFpDawu6-6Jcx1xpoNiwu6zo2YaxCP8F0M"]
-ADMIN_ID = int(os.environ["7814940032"])
+ADMIN_ID = int(os.environ["8026585919"])
 
 SERVER_ADDRESS = os.environ["SERVER_ADDRESS"]
 SERVER_PORT = os.environ.get("SERVER_PORT", "443")
