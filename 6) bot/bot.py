@@ -11,7 +11,7 @@ from aiogram.types import (
     CallbackQuery,
 )
 
-BOT_TOKEN = os.environ["8313472811:AAFLJNXmKA2TmZrRm_ejRMlrVH8PnZfobb4"]
+BOT_TOKEN = os.environ["8026585919:AAFpDawu6-6Jcx1xpoNiwu6zo2YaxCP8F0M"]
 ADMIN_ID = int(os.environ["7814940032"])
 
 SERVER_ADDRESS = os.environ["SERVER_ADDRESS"]
@@ -19,7 +19,7 @@ SERVER_PORT = os.environ.get("SERVER_PORT", "443")
 
 API_URL = "http://api:8000"
 
-bot = Bot(8313472811:AAFLJNXmKA2TmZrRm_ejRMlrVH8PnZfobb4)
+bot = Bot(8026585919:AAFpDawu6-6Jcx1xpoNiwu6zo2YaxCP8F0M)
 dp = Dispatcher()
 
 
