@@ -1,0 +1,16 @@
+vless-bot/
+├── bot/
+│   ├── __init__.py
+│   └── bot.py
+├── api/
+│   ├── __init__.py
+│   └── main.py
+├── database/
+│   ├── __init__.py
+│   └── models.py
+├── xray/
+│   └── config.json
+├── docker-compose.yml
+├── Dockerfile
+├── requirements.txt
+└── .env
