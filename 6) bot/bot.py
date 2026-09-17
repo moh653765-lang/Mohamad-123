@@ -19,7 +19,7 @@ SERVER_PORT = os.environ.get("SERVER_PORT", "443")
 
 API_URL = "http://api:8000"
 
-bot = Bot(BOT_TOKEN)
+bot = Bot(8313472811:AAFLJNXmKA2TmZrRm_ejRMlrVH8PnZfobb4)
 dp = Dispatcher()
 
 
