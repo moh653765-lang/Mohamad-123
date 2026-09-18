@@ -9,10 +9,10 @@
   "InjectConfig": {
     "IsEncrypted": true,
     "EncryptedMode": "PROXY",
-    "EncryptedProxyHost": "179.60.195.39",
-    "EncryptedProxyPort": "8080",
+    "EncryptedProxyHost": "34.43.46.91",
+    "EncryptedProxyPort": "80",
     "EncryptedServerNameIndication": "",
-    "EncryptedPayload": "CONNECT yt3.ggpht.com:443 HTTP/1.1[crlf]Host: [crlf]Connection: Keep-Alive[crlf]X-FB-Net-HNI: 41302[crlf]X-FB-SIM-HNI: 41302[crlf]User-Agent: FBAV/0.0[crlf]X-FB-HTTP-Engine: Liger[crlf]X-Iorg-Bsid: @VLESSVMessTroja[crlf][crlf]",
+    "EncryptedPayload": "CONNECT [host_port] [protocol][crlf]Host: alt13.yt3.ggpht.com[crlf][crlf]",
     "EncryptedDnsttDnsHost": "1.1.1.1",
     "EncryptedDnsttDnsPort": "53",
     "EncryptedDnsttServerName": "",
