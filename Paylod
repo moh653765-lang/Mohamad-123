@@ -9,10 +9,10 @@
   "InjectConfig": {
     "IsEncrypted": true,
     "EncryptedMode": "PROXY",
-    "EncryptedProxyHost": "34.43.46.91",
-    "EncryptedProxyPort": "80",
+    "EncryptedProxyHost": "157.240.9.39",
+    "EncryptedProxyPort": "8080",
     "EncryptedServerNameIndication": "",
-    "EncryptedPayload": "CONNECT [host_port] [protocol][crlf]Host: alt13.yt3.ggpht.com[crlf][crlf]",
+    "EncryptedPayload": "CONNECT [host]:[port] HTTP/1.1[crlf]x-connected-to: 34.143.72.2[crlf]proxy-connection: keep-alive[crlf]connection: keep-alive[crlf]user-agent: FBAV/0.0 [crlf]x-iorg-bsid: @MOHAMaaaaal[crlf][crlf]",
     "EncryptedDnsttDnsHost": "1.1.1.1",
     "EncryptedDnsttDnsPort": "53",
     "EncryptedDnsttServerName": "",
